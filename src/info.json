@@ -1,0 +1,9 @@
+{
+  "name": "recipestages",
+  "version": "0.1.0",
+  "title": "Recipe Stages",
+  "author": "kwyntes",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1", "flib >= 0.9.2"],
+  "description": "Split recipes for complex items into stages so you know what to build first"
+}
